@@ -1,4 +1,5 @@
-# When testing makes no sense 
+# When Testing Makes No Sense
+
 by Miro Svrtan
 
 If you look at the stage of any conference in the PHP world, people are preaching testing, testing, testing ... If you on the other hand look at the community, the percentage of people writing tests is really low.

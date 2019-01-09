@@ -1,4 +1,5 @@
-# Building Apps for Immutable Servers 
+# Building Apps for Immutable Servers
+
 by Daniel Gomes
 
 Immutable Servers are not new and they are not that simple to achieve. However, the advantages of having Immutable Servers versus Snowflake Servers are worth it.

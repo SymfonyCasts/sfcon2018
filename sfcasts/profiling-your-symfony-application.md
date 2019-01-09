@@ -1,4 +1,4 @@
-# Profiling your Symfony application
+# Profiling your Symfony Application
 
 by Michael Cullum
 

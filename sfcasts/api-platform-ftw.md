@@ -1,4 +1,4 @@
-# Modern application built from scratch: API Platform FTW
+# Modern Application Built from Scratch: API Platform FTW
 
 by Anderson Casimiro
 

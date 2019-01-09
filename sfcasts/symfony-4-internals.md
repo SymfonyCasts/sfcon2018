@@ -1,8 +1,8 @@
-# Symfony 4 internals
+# Symfony 4 Internals
 
 by Tobias Nyholm
 
-Symfony is a request and response framework. But what about all that magic that happens around your code? Why isn’t autowring slowing things down? And how is it that Symfony components can be so decoupled but sill play so well together?
+Symfony is a request and response framework. But what about all that magic that happens around your code? Why isn’t autowiring slowing things down? And how is it that Symfony components can be so decoupled but sill play so well together?
 
 I will show you the Symfony internals and its architecture.
 

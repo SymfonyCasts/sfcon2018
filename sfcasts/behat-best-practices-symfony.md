@@ -1,4 +1,5 @@
-# Behat Best Practices with Symfony 
+# Behat Best Practices with Symfony
+
 by Ciaran McNulty
 
 Behat is widely used as part of a Behavior Driven Development lifecycle, but it's also widely misused.
