@@ -1,5 +1,7 @@
 # Bulletproof MongoDB
 
-by Jeremy Mikola
+***TIP
+SymfonyCon 2018 Presentation by Jeremy Mikola
 
 An all-too-common approach for database error handling is to log the exception, return a 500 response, and move on to the next request. MongoDB and its PHP driver have an array of features that can greatly improve an application's resiliency in the face of unexpected errors. This talk will examine how the driver monitors connections to a cluster and look at how we can tune its behavior to meet an application's unique needs. We'll also demonstrate how PHP applications can take advantage of newer features such as retryable writes and multi-document transactions to guarantee ACID data integrity without having to fall back to PDO and an SQL database.
+***
