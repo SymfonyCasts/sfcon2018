@@ -1,6 +1,6 @@
 # SymfonyCon 2018 Lisbon Conference Videos
 
-Well hi there! This repository holds the code and script
+Well hi there! This repository holds the script
 for the [SymfonyCon 2018 Lisbon Conference Videos](https://symfonycasts.com/screencast/symfonycon2018) course on SymfonyCasts.
 
 ## Have Ideas, Feedback or an Issue?
