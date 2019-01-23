@@ -114,8 +114,8 @@ what we want, that's not what inclusion is about.
 So some of the first steps we did was we created a Symfony Slack channel.
 Actually, maybe we already did that a few days before the SymfonyCon. So we
 have a diversity channel on Slack. I created the GitHub organization underneath
-the Symfony, or no, I created a repository underneath the Symfony organization
-- diversity - where we started to track with tickets that the ideas we had. And
+the Symfony, or no, I created a repository underneath the Symfony organization -
+diversity - where we started to track with tickets that the ideas we had. And
 very quickly we had about 30 tickets. Um, I would say about 10 of them have
 been completed. Plenty of them are still open and we open new ones all the
 time. But, um, with that we sort of had like the, the initial infrastructure,
@@ -330,8 +330,8 @@ like a week or two she came back with this amazing document, where she really
 summarized all, like tons of key issues with links to additional details and
 things like that. And, so this is put up, I made the short link up at the top
 because the full link is rather long - it's underneath there. So it's
-https://github.com/DutchPHPConference/conference-diversity-and-inclusion/blob/ma
-ster/Guideline.md. And so it's full of tips. It's probably not a complete guide
+https://github.com/DutchPHPConference/conference-diversity-and-inclusion/blob/master/Guideline.md.
+And so it's full of tips. It's probably not a complete guide
 yet. We'll, we'll, continue to expand it. One thing that we also want to do and
 the guide is to highlight a little bit more, which of the different topics
 require money? And potentially a little bit of scale. How much money? And also
@@ -528,8 +528,8 @@ different topics that have been pushing forward. And I'm very grateful to them.
 ## OpenCollective
 
 So last thing was already mentioned in the, in a bunch of places. If you can,
-it will be great if you can [consider
-donating](https://opencollective.com/symfony-diversity). Maybe also your
+it will be great if you can [consider donating](https://opencollective.com/symfony-diversity).
+Maybe also your
 employer can donate. This was also very much a feel-good moment. So we started
 the donation drive I think in early November and by the end of November we
 already had over three and a half thousand dollars collected, which I think
