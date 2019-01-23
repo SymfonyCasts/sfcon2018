@@ -110,8 +110,8 @@ should just work. So it uses the first available port. Instead of 8000 you can
 configure it if that makes sense for you. And then you have all the logs from
 PHP and, and a bunch of other things. You can also start it in background with
 `-d` and the great thing about that is that then you can just fire and forget.
-And the great thing - and that's very different from what you get from `php -S`
-- that you can just say `symfony server:log` to tail the logs of the server,
+And the great thing - and that's very different from what you get from `php -S` -
+that you can just say `symfony server:log` to tail the logs of the server,
 which is not possible with `php -S`. And then you can say `symfony open:local`
 to open a website in the browser.
 
