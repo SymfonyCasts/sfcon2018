@@ -3,6 +3,7 @@ chapters:
   - knowing-your-state-machines
   - behat-best-practices-symfony
   - file-storage-modern-php-apps
+  - symfony-messenger-6-months
   - varnish-caching-logged-in-users
   - changing-php
   - symfony-forms-rich-domain-models
