@@ -1,5 +1,20 @@
 # Webpack Encore: Tips, Tricks, Questions & Best Practices
 
+***TIP
+SymfonyCon 2018 Presentation by [Ryan Weaver](https://github.com/weaverryan)
+
+With Webpack, your JavaScript & CSS code can have superpowers you've only
+dreamed up. And with Symfony's Webpack Encore, you can get all of this with
+almost zero setup time!
+
+In this talk, we'll quickly learn the basics of Webpack Encore, then, turn to
+the lessons we've learned over the past year: answer popular questions and
+explore common problems people run into when moving to Encore. We'll also dive
+into a host of lesser-known best practices that you can follow to make sure your
+frontend coding is as streamlined as possible. A modern frontend build system:
+all in the time of one talk!
+***
+
 How many people have seen the SymfonyCasts videos? I was going to explain that
 this is really my voice and the miracles of editing. It's really incredible what
 we can with that audio. Okay. I am Ryan. Hello nice to meet you. I'm the the lead
