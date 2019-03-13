@@ -262,7 +262,7 @@ is a firewall. I'm not talking specifically about the firewalls because it's a
 very extensive subject and it's very fun to play with too. But let's suppose we
 all know what we're doing with the firewalls. And, pay attention, if you don't
 know what you're doing, you're going to mess up your whole application. But down
-there, in my main farewell, I have some authenticators. And why is this
+there, in my main firewall, I have some authenticators. And why is this
 authenticators? You can have lots, as I said before. And then you just put the
 namespace of your personalized authenticator. It's really simple when you do
 that.
