@@ -1,7 +1,7 @@
 # When Testing Makes No Sense
 
 ***TIP
-SymfonyCon 2018 Presentation by (Miro Svrtan)[https://github.com/msvrtan]
+SymfonyCon 2018 Presentation by [Miro Svrtan](https://github.com/msvrtan)
 
 If you look at the stage of any conference in the PHP world, people are
 preaching testing, testing, testing ... If you on the other hand look at the
